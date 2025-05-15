@@ -1,4 +1,4 @@
-# justin-site
+
 <!DOCTYPE HTML>
 <!--
 	Lens by HTML5 UP
@@ -21,7 +21,7 @@
 				<!-- Header -->
 					<header id="header">
 						<h1>Justin Schoenegge</h1>
-						<p>W>Welcome to Justin Schoenegge’s Digital Playground 🎮 Remove all.</a></p>
+						<p>W>Welcome to Justin Schoenegge’s Digital Playground 🎮 Please click the envelope below to get in contact with me.</a></p>
 						<ul class="icons">
 							<li><a href="mailto: justinscheonegge@gmail.com" target="_blank" class="icon fa-envelope"><span class="label">Email</span></a></li>
 							<li><a href="https://www.linkedin.com/in/justin-schoenegge-962462119/" target="_blank" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
@@ -75,4 +75,3 @@
 
 	</body>
 </html>
-
